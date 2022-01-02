@@ -1,6 +1,6 @@
 Hi, I'm Gijin, Lee
 
--🌱 I’m currently learning Robotics in Kwangwoon University
+🌱 I’m currently learning Robotics in Kwangwoon University(2018~)
 
 
 I’m currently interested in...
@@ -9,7 +9,7 @@ I’m currently interested in...
 - 😃 Robot navigation 
 - 😃 Computer Vision & Sensor Fusion
 
-🔫 I finished my service as a SGT(KATUSA) of 2ID, US Army.
+🔫 I finished my service as a SGT(KATUSA) of 2ID, US Army(2019~2020).
 
 ❤️ I like running(work out), playing games, playing musical instruments and other various type of things
 
