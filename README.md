@@ -2,10 +2,10 @@
 
 _🤖 I’m currently learning Robotics in Kwangwoon University(2018~)_
 
-I’m currently interested in...
-- 😃 Autonomous driving
-- 😃 Robot navigation 
-- 😃 Computer Vision & Sensor Fusion
+😃I’m currently interested in...
+- Autonomous driving
+- Robot navigation 
+- Computer Vision & Sensor Fusion
 
 🔫 I finished my service as a SGT(KATUSA) of 2ID, US Army(2019~2020).  
 ❤️ I like running(work out), playing games, playing musical instruments and other various type of things  
