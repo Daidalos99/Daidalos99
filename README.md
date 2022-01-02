@@ -5,9 +5,7 @@ Hi, I'm Gijin, Lee
 I’m currently interested in...
 
 😃 Autonomous driving
-
 😃 Robot navigation
-
 😃 Computer Vision & Sensor Fusion
 
 🔫 I finished my service as a SGT(KATUSA) of 2ID, US Army.
