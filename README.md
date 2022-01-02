@@ -1,6 +1,6 @@
-Hi, I'm Gijin, Lee
+## **Hi. I'm Gijin, Lee**
 
-🤖 I’m currently learning Robotics in Kwangwoon University(2018~)
+_🤖 I’m currently learning Robotics in Kwangwoon University(2018~)_
 
 I’m currently interested in...
 - 😃 Autonomous driving
@@ -11,6 +11,16 @@ I’m currently interested in...
 ❤️ I like running(work out), playing games, playing musical instruments and other various type of things  
 📫 You can contact me via daidalos0430@gmail.com
 
+-----------------------------------------------------------------------------------------------------------------------------
+
+## **Tech Stacks**
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
 <!---
 Daidalos99/Daidalos99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
