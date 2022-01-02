@@ -1,7 +1,6 @@
 Hi, I'm Gijin, Lee
 
-🌱 I’m currently learning Robotics in Kwangwoon University(2018~)
-
+I’m currently learning Robotics in Kwangwoon University(2018~)
 
 I’m currently interested in...
 
