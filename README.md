@@ -7,7 +7,7 @@ _🤖 I’m currently learning Robotics in Kwangwoon University(2018~)_
 - Robot navigation 
 - Computer Vision & Sensor Fusion
 
-🔫 I finished my service as a SGT(KATUSA) of 2ID(RUCD), US Army(2019~2020).  
+🔫 I finished my service as a SGT(KATUSA) of 2ID/RUCD, US Army(2019~2020).  
 ❤️ I like running(work out), playing games, playing musical instruments and other various type of things  
 📫 You can contact me via daidalos0430@gmail.com
 
