@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Greetings!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:833ab4,50:fd1d1d,100:fcb045&height=300&section=header&text=Greetings!&fontSize=90)
 
 ## **I'm Gijin, Lee**
 
