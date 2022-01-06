@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Greetings!&fontSize=90)
 
-## **Hi. I'm Gijin, Lee**
+## **I'm Gijin, Lee**
 
 _🤖 I’m currently learning Robotics in Kwangwoon University(2018~)_
 
