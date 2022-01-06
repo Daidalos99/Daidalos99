@@ -2,7 +2,7 @@
 
 ## **I'm Gijin, Lee**
 
-_🤖 I’m currently learning Robotics in Kwangwoon University(2018~)_
+_🤖 I’m currently learning Robotics in Kwangwoon University(2018~), South Korea_
 
 😃I’m currently interested in...
 - Autonomous driving
