@@ -8,6 +8,7 @@ _🤖 I’m currently learning Robotics in Kwangwoon University(2018~), South Ko
 - Autonomous driving
 - Computer Vision
 - Simultaneous Localization and Mapping(SLAM)
+- Machine Learning/Deep Learning(ML/DL)
 
 🔫 I finished my service as a SGT(KATUSA, CPOF Operator) of 2ID/RUCD, US Army(2019~2020).  
 ❤️ I like running, swimming, playing games, playing musical instruments and other various type of things  
