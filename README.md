@@ -2,13 +2,15 @@
 
 ## **I'm Gijin, Lee**
 
-_🤖 I’m currently learning Robotics in Kwangwoon University(2018~), South Korea_
+_🤖 I’m studied Robotics in Kwangwoon University(2018~), South Korea_
+_:airplane: I’m studied Robotics in Kwangwoon University(2018~), South Korea_
 
 😃I studied...
 - Autonomous driving
 - Computer Vision
 - Simultaneous Localization and Mapping(SLAM)
 - Machine Learning/Deep Learning(ML/DL)
+- ROS(Robot Operating System)
 
 😃I’m currently interested & studying...
 - C++
