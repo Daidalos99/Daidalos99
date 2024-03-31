@@ -2,8 +2,8 @@
 
 ## **I'm Gijin, Lee**
 
-_🤖 I’m studied Robotics in Kwangwoon University(2018~), South Korea_
-_:airplane: I’m studied Robotics in Kwangwoon University(2018~), South Korea_
+_🤖 I’m studied Robotics in Kwangwoon University(2018~), South Korea_  
+_:airplane: Currently working & studying to be a Simulation Engineer, South Korea_
 
 😃I studied...
 - Autonomous driving
