@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:833ab4,50:fd1d1d,100:fcb045&height=300&section=header&text=Greetings!&fontSize=90&fontColor=f7f5f5)
 
-## **I'm Gijin, Lee**
+## **I'm Daidalos99!**
 
 🤖 I’m studied Robotics in Kwangwoon University(2018~), South Korea  
 ✈️ Currently working & studying to be a Simulation Engineer, South Korea  
